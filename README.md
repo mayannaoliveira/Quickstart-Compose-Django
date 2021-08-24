@@ -129,9 +129,9 @@ docker-compose up
 ![Docker](https://shields.io/badge/Docker-gray?logo=Docker&logoColor=blue&style=for-the-badge)
 ![Django](https://shields.io/badge/Django-gray?logo=Django&logoColor=green&style=for-the-badge)
 ![Python](https://shields.io/badge/Python-gray?logo=Python&logoColor=yellow&style=for-the-badge)
-![Html5](https://shields.io/badge/HTML5-gray?logo=html5&logoColor=red&style=for-the-badge)
-![Css3](https://shields.io/badge/css3-gray?logo=css3&logoColor=blue&style=for-the-badge)
-![Css3](https://shields.io/badge/SQLITE-gray?logo=sqlite&logoColor=blue&style=for-the-badge)
+![PostgreSQL](https://shields.io/badge/PostgreSQL-gray?logo=PostgreSQL&logoColor=blue&style=for-the-badge)
+<!-- ![Html5](https://shields.io/badge/HTML5-gray?logo=html5&logoColor=red&style=for-the-badge)
+![Css3](https://shields.io/badge/css3-gray?logo=css3&logoColor=blue&style=for-the-badge) -->
 
 #### Sugestões ou dúvidas essas são minhas redes sociais
 Siga-me nas redes sociais, eu estarei sempre a disposíção para conversar e trocar idéias. Sempre que eu puder estarei postando novidades!
